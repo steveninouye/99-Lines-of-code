@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(199, 199, 199);
+  font-family: "Hanalei Fill", cursive;
+}
+
+h1 {
+  color: rgb(99, 43, 255);
+  padding: 10px;
+}
+
+.friend {
+  background-color: rgba(255, 99, 71, 0.3);
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.friend > h3 {
+  text-transform: uppercase;
+}
